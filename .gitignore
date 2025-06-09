@@ -1,0 +1,25 @@
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Obsidian (caso aplique)
+.obsidian/
+.DS_Store
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
