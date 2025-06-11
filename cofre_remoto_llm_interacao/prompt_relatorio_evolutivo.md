@@ -23,8 +23,6 @@ Siga esta estrutura:
 
 → O resultado deve ser entregue como um **arquivo `.md` para download**, formatado com seções claras, linguagem técnica e foco em rastreabilidade.
 
-Use este modelo sempre que eu disser:  
-**“Gere o relatório evolutivo completo do projeto atual.”**
 ```
 
 ---
